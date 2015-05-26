@@ -1,0 +1,19 @@
+{
+  "name": "public-facing-metalsmith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "1.0.0",
+    "contentful": "1.1.1",
+    "lodash": "3.9.2",
+    "metalsmith": "1.7.0",
+    "metalsmith-templates": "0.7.0",
+    "swig": "^1.4.2"
+  }
+}

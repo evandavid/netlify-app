@@ -1,0 +1,14 @@
+{
+  "source": "src",
+  "destination": "build",
+  "plugins": {
+    "./lib/index.js": {
+        "accessToken": "7ec710e192648e6ffb87539168248eedfeb425365e3f019c286eb04ef254d56e",
+        "spaceId": "pwgtlaaepjpo"
+    },
+    "metalsmith-templates" : {
+      "engine" : "swig",
+      "directory" : "templates"
+    }
+  }
+}

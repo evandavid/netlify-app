@@ -1,0 +1,9 @@
+// "metalsmith-clean" : true,
+    // "metalsmith-drafts" : true,
+    // "contentful-metalsmith": {
+    //   "accessToken" : "7ec710e192648e6ffb87539168248eedfeb425365e3f019c286eb04ef254d56e"
+    // },
+    // "metalsmith-templates" : {
+    //   "engine" : "handlebars",
+    //   "directory" : "templates"
+    // }
